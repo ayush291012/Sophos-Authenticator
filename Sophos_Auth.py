@@ -59,7 +59,7 @@ def check_ping():
 
 
 
-session =login('21103016','178045HI')
+session =login('username','password')
 
 # print(session)
 # print(check_ping())
